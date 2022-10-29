@@ -1,0 +1,15 @@
+/Users/emelanova/Documents/УЧЕБА/C#/ДЗ1/ДЗ_7/Task_38/bin/Debug/net6.0/Task_38
+/Users/emelanova/Documents/УЧЕБА/C#/ДЗ1/ДЗ_7/Task_38/bin/Debug/net6.0/Task_38.deps.json
+/Users/emelanova/Documents/УЧЕБА/C#/ДЗ1/ДЗ_7/Task_38/bin/Debug/net6.0/Task_38.runtimeconfig.json
+/Users/emelanova/Documents/УЧЕБА/C#/ДЗ1/ДЗ_7/Task_38/bin/Debug/net6.0/Task_38.dll
+/Users/emelanova/Documents/УЧЕБА/C#/ДЗ1/ДЗ_7/Task_38/bin/Debug/net6.0/Task_38.pdb
+/Users/emelanova/Documents/УЧЕБА/C#/ДЗ1/ДЗ_7/Task_38/obj/Debug/net6.0/Task_38.csproj.AssemblyReference.cache
+/Users/emelanova/Documents/УЧЕБА/C#/ДЗ1/ДЗ_7/Task_38/obj/Debug/net6.0/Task_38.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emelanova/Documents/УЧЕБА/C#/ДЗ1/ДЗ_7/Task_38/obj/Debug/net6.0/Task_38.AssemblyInfoInputs.cache
+/Users/emelanova/Documents/УЧЕБА/C#/ДЗ1/ДЗ_7/Task_38/obj/Debug/net6.0/Task_38.AssemblyInfo.cs
+/Users/emelanova/Documents/УЧЕБА/C#/ДЗ1/ДЗ_7/Task_38/obj/Debug/net6.0/Task_38.csproj.CoreCompileInputs.cache
+/Users/emelanova/Documents/УЧЕБА/C#/ДЗ1/ДЗ_7/Task_38/obj/Debug/net6.0/Task_38.dll
+/Users/emelanova/Documents/УЧЕБА/C#/ДЗ1/ДЗ_7/Task_38/obj/Debug/net6.0/refint/Task_38.dll
+/Users/emelanova/Documents/УЧЕБА/C#/ДЗ1/ДЗ_7/Task_38/obj/Debug/net6.0/Task_38.pdb
+/Users/emelanova/Documents/УЧЕБА/C#/ДЗ1/ДЗ_7/Task_38/obj/Debug/net6.0/Task_38.genruntimeconfig.cache
+/Users/emelanova/Documents/УЧЕБА/C#/ДЗ1/ДЗ_7/Task_38/obj/Debug/net6.0/ref/Task_38.dll
