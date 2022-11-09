@@ -46,13 +46,12 @@ int ReadIntegerNumber(string message)
     return int.Parse(Console.ReadLine() ?? "0");
 }
 
-
 int line = ReadIntegerNumber("Введите кол-во элеменов по оси x : ");
 int column = ReadIntegerNumber("Введите кол-во элеменов по оси y : ");
 
 int[,] matrA = new int[line, column];
 int[,] matrB = new int[line, column];
-int [,] matrC = new int[matrA.GetLength(0), matrB.GetLength(1)];
+int[,] matrC = new int[matrA.GetLength(0), matrB.GetLength(1)];
 
 FillArray(matrA, 1, 10);
 FillArray(matrB, 5, 25);
