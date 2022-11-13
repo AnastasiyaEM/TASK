@@ -2,11 +2,11 @@
 //Первые два элемента последовательности задаются пользователем
 
 
-string Numbers( int n,int A, int E, int i =3)
+string Numbers( int n,int A, int E, int i =3) // первые два числа известны
 {
     if (n !=0)
     {
-    --n;
+    n --;
     int sum = A+E; return sum + Numbers(n,A,E,i+1);
     }
     else return " ";
